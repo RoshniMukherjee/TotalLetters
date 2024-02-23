@@ -1,6 +1,5 @@
 Problem Statement
 
-23hr left
 
 Given an input, number N. Write pseudocode to count what would be the total number of letters if the number is written in words.
 
